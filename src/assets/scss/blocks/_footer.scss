@@ -1,0 +1,17 @@
+.footer {
+    &__phone {
+        color: #000;
+        font-size: 45px;
+        text-decoration: none;
+    }
+
+    &__email {
+        margin: 50px 0;
+        font-size: 25px;
+
+        a {
+            color: #3c92c9;
+
+        }
+    }
+}

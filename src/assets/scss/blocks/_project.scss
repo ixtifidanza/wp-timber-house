@@ -1,0 +1,20 @@
+.project {
+    &__title {
+        color: #d07a2d;
+        font-size: 41px;
+        margin-bottom: 109px;
+    }
+    &__name {
+        font-size: 20px;
+    }
+    &__price {
+       color: #17753b;
+       margin-bottom: 15px;
+    }
+    &__item {
+        margin-top: 137px;
+    }
+    &__images-item:last-child {
+        margin-top: 15px;
+    }   
+}

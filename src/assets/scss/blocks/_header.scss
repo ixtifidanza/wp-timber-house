@@ -1,0 +1,46 @@
+.header{
+    background-image: url(../../img/header-bg.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 150px;
+    
+    &__inner {
+        text-align: center;
+        width: 430px;
+        height: 430px;
+        border-radius: 50%;
+        background-color: #fff;
+        border: 10px solid #f4d4a5;
+        margin-left: 140px;
+        padding: 16px 0 21px;
+       
+    }
+    &__sale img {
+        width: 190px;
+    }
+   
+    &__main {
+        text-transform: uppercase;
+        font-size: 35px;
+        font-weight: bold;
+        color: #bf4200;
+        margin-bottom: 15px;
+    }
+    .phone{
+        font-size: 35px;
+        font-family: 'Lato' sans-serif; 
+        font-weight: 400;
+        text-decoration: none;
+        color: #000;
+    }
+    &__title {
+        color: #1fad26;
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 40px;
+        padding: 45px 0;
+    }
+
+}

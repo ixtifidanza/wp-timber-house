@@ -1,0 +1,18 @@
+.gallery {
+    &__inner {
+        display: flex;
+        flex-wrap: wrap;
+        img {
+            display: block;
+        }
+    }
+    &__title {
+        font-size: 41px;
+        color: #d07a2d;
+        margin: 150px 0 20px;
+    }
+    &__text {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+}

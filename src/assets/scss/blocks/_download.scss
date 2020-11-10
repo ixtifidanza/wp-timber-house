@@ -1,0 +1,19 @@
+.download {
+    padding: 40px 0 30px;
+    background-color: #f1dfbc;
+   
+    &__link {
+        display: inline-block;
+        width: 594px;
+        height: 85px;
+        margin: 0 auto;
+        font-size: 35px;
+        background-color: #17753b;
+        cursor: pointer;
+        border: 5px solid #effd15;
+        padding: 14px;
+        a {
+            color: #fff;
+        }
+    }
+}
